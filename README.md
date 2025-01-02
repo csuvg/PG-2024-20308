@@ -30,7 +30,7 @@ Este proyecto implementa una solución para simulación y análisis vehicular ut
    ```
 
 ### **Nota sobre variables de entorno**
-    En este proyecto no se tienen variables de entorno por lo que lo único que debemos de tener en cuenta es las rutas escritas en los diversos archivos jupyter y python para que el flujo de ejecución sea el mismo utilizado para replicar el ambiente de trabajo.
+En este proyecto no se tienen variables de entorno por lo que lo único que debemos de tener en cuenta es las rutas escritas en los diversos archivos jupyter y python para que el flujo de ejecución sea el mismo utilizado para replicar el ambiente de trabajo.
 
 
 ### **Ejecución del proyecto**
@@ -61,7 +61,7 @@ Este proyecto implementa una solución para simulación y análisis vehicular ut
 ---
 
 ### **Notas adicionales**
-- Asegúrate de ajustar las rutas en los archivos `.ipynb` y `.py` para que coincidan con las ubicaciones de tus datos y modelos.
+- Asegurese de ajustar las rutas en los archivos `.ipynb` y `.py` para que coincidan con la ubicación de los datos y modelos.
 - El orden descrito garantiza una replicación exacta del proceso utilizado en el desarrollo y entrenamiento del sistema.
 
 

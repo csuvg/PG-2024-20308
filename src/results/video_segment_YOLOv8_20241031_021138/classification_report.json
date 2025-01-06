@@ -1,0 +1,122 @@
+{
+    "No Detection": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0.0
+    },
+    "pedestrian_traffic_light_green": {
+        "precision": 1.0,
+        "recall": 0.5,
+        "f1-score": 0.6666666666666666,
+        "support": 2.0
+    },
+    "pedestrian_traffic_light_red": {
+        "precision": 0.6666666666666666,
+        "recall": 0.125,
+        "f1-score": 0.21052631578947367,
+        "support": 16.0
+    },
+    "stop": {
+        "precision": 0.9565217391304348,
+        "recall": 0.7857142857142857,
+        "f1-score": 0.8627450980392157,
+        "support": 28.0
+    },
+    "traffic_light_green": {
+        "precision": 0.9767441860465116,
+        "recall": 0.8076923076923077,
+        "f1-score": 0.8842105263157894,
+        "support": 52.0
+    },
+    "traffic_light_red": {
+        "precision": 1.0,
+        "recall": 0.13043478260869565,
+        "f1-score": 0.23076923076923078,
+        "support": 23.0
+    },
+    "traffic_light_yellow": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 3.0
+    },
+    "accuracy": 0.5645161290322581,
+    "macro avg": {
+        "precision": 0.6571332274062305,
+        "recall": 0.33554876800218414,
+        "f1-score": 0.40784540536862524,
+        "support": 124.0
+    },
+    "weighted avg": {
+        "precision": 0.9132255890059471,
+        "recall": 0.5645161290322581,
+        "f1-score": 0.6463327161869057,
+        "support": 124.0
+    },
+    "confusion_matrix": [
+        [
+            2,
+            14,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            6,
+            0,
+            22,
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            10,
+            0,
+            0,
+            42,
+            0,
+            0
+        ],
+        [
+            0,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        [
+            1,
+            17,
+            0,
+            1,
+            1,
+            0,
+            3
+        ]
+    ]
+}

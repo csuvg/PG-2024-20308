@@ -1,0 +1,6 @@
+train: split_dataset/train/images
+val: split_dataset/val/images
+test: split_dataset/test/images
+
+nc: 6  # Número de clases
+names: ['pedestrian_traffic_light_green', 'pedestrian_traffic_light_red', 'traffic_light_green', 'traffic_light_red', 'traffic_light_yellow', 'stop']

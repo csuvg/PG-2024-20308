@@ -1,0 +1,1863 @@
+Alerta Log para ModelV1
+Fecha de creación: 2024-10-18 23:03:51
+
+Timestamp: 40874.166666666664 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 41708.33333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 52552.49999999999 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 65899.16666666666 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 66733.33333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 67567.5 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 75909.16666666666 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 90924.16666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 94260.83333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 95095.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 105939.16666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 137637.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 138471.66666666666 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 177677.49999999997 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 178511.66666666666 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 179345.83333333334 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 180180.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 296963.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 297797.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 325325.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 330330.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 331998.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 332832.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 333666.6666666666 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 334500.8333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 336169.1666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 340340.0 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 343676.6666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 360360.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 361194.1666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 362028.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 362862.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 363696.6666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 364530.8333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 365365.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 366199.1666666666 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 367033.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 367867.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 462128.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 470469.99999999994 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 484650.8333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 603102.5 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 603936.6666666666 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 604770.8333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 623122.5 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 642308.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 658157.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 658991.6666666666 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 659825.8333333334 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 728227.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 731564.1666666666 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 735735.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 736569.1666666666 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 739071.6666666666 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 740740.0 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 741574.1666666666 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 742408.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 748247.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 749081.6666666666 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 749915.8333333334 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 755755.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 756589.1666666666 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 757423.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 794960.8333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 819151.6666666666 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 858357.5 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 866699.1666666666 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 870870.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 879211.6666666666 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 880045.8333333334 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 880880.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 881714.1666666666 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 882548.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 883382.4999999999 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 884216.6666666666 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 885050.8333333334 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 885885.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 977643.3333333334 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 978477.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 980145.8333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 980980.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 981814.1666666666 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 982648.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 983482.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 984316.6666666666 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 990990.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 991824.1666666666 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 998497.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1042708.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1046045.0000000001 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1046879.1666666666 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1047713.3333333334 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1056055.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1056889.1666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1057723.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1071070.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1085250.8333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1101100.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1126125.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1136135.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1137803.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1139471.6666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1140305.8333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1141139.9999999998 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1141974.1666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1142808.3333333335 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1143642.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1146145.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1146979.1666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1151149.9999999998 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1151984.1666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1152818.3333333335 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1153652.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1154486.6666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1155320.8333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1156155.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1156989.1666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1157823.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1158657.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1159491.6666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1160325.8333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1161159.9999999998 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1161994.1666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1162828.3333333335 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1163662.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1164496.6666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1165330.8333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1166165.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1166999.1666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1167833.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1168667.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1170335.8333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1172838.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1173672.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1175340.8333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1176175.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1177009.1666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1177843.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1182014.1666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1182848.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1195360.8333333335 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1204536.6666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1212044.1666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1212878.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1257923.3333333335 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1273772.5 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1284616.6666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1285450.8333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1292958.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1293792.5 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1351350.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1352184.1666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1353018.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1353852.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1355520.8333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1360525.8333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1361360.0 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1362194.1666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1363028.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1363862.5 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1364696.6666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1365530.8333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1392224.1666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1393058.3333333335 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1393892.5 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1453952.4999999998 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1454786.6666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1456455.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1458123.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1459791.6666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1460625.8333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1461460.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1462294.1666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1463128.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1464796.6666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1466465.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1467299.1666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1468133.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1468967.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1469801.6666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1470635.8333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1471470.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1472304.1666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1473138.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1473972.4999999998 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1485650.8333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1486485.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1488153.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1488987.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1489821.6666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1490655.8333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1491490.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1492324.1666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1493992.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1494826.6666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1495660.8333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1496495.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1497329.1666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1498163.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1531530.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1532364.1666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1533198.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1534032.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1534866.6666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1535700.8333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1536534.9999999998 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1537369.1666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1538203.3333333335 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1539037.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1541540.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1542374.1666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1543208.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1544042.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1546544.9999999998 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1547379.1666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1548213.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1549047.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1553218.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1556554.9999999998 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1587419.1666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1611610.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1613278.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1614112.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1614946.6666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1617449.1666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1626625.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1627459.1666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1634132.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1634966.6666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1657489.1666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1686685.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1687519.1666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1700865.8333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1701700.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1702534.1666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1704202.4999999998 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1718383.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1740071.6666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1751750.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1756754.9999999998 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1768433.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1775106.6666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1788453.3333333335 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1789287.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1790121.6666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1790955.8333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1791790.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1792624.1666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1802634.1666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1814312.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1815146.6666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1815980.8333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1816814.9999999998 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1817649.1666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1830161.6666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1831830.0 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1832664.1666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1833498.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1847679.1666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1861025.8333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1861860.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1863528.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1864362.5 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1865196.6666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1866030.8333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1898563.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1900231.6666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1901065.8333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1905236.6666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1911075.8333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1931929.9999999998 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1932764.1666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1933598.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1934432.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1936100.8333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1936935.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1938603.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1941939.9999999998 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1942774.1666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1943608.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1944442.4999999998 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1945276.6666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1947779.1666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1948613.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1950281.6666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1953618.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1954452.4999999998 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1955286.6666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1956120.8333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1956955.0 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1957789.1666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1958623.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1959457.5 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 1970301.6666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1976975.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1993658.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1996995.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 1998663.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2002000.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2002834.1666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2004502.4999999998 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2005336.6666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2007004.9999999998 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2007839.1666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2008673.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2009507.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2010341.6666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2013678.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2014512.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2015346.6666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2016180.8333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2017014.9999999998 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2017849.1666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2018683.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2019517.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2020351.6666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2021185.8333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2022020.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2027024.9999999998 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2027859.1666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2028693.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2029527.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2032030.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2033698.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 2034532.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2035366.6666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2037034.9999999998 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2037869.1666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2039537.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2042874.1666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2043708.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2049547.5000000002 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2058723.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2059557.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2061225.8333333335 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 2140471.666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2147145.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2148813.333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2149647.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2150481.6666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2151315.833333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2152150.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2185516.6666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2186350.8333333335 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2187185.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2188019.1666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2188853.3333333335 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2189687.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2190521.6666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2191355.833333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2192190.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2193024.1666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2193858.333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2196360.833333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2199697.4999999995 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2200531.666666667 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2224722.5 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2228059.1666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2243074.166666667 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2247245.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2248079.1666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2248913.3333333335 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2252250.0 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2259757.4999999995 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2261425.833333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2262259.9999999995 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2282279.9999999995 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2303134.1666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2333998.3333333335 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2381545.833333333 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------
+Timestamp: 2456620.8333333335 ms
+Velocidad: 60 km/h
+Objeto detectado: traffic_light_red
+Mensaje de alerta: ALERTA: traffic_light_red
+-----------------------------
+Timestamp: 2512509.9999999995 ms
+Velocidad: 60 km/h
+Objeto detectado: pedestrian_traffic_light_red
+Mensaje de alerta: ALERTA: pedestrian_traffic_light_red
+-----------------------------

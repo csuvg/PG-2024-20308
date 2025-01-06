@@ -1,0 +1,78 @@
+Alerta Log para ModelV1
+Fecha de creación: 2024-10-15 00:27:53
+
+Timestamp: 243576.66666666666 ms
+Velocidad: 60 km/h
+Objeto detectado: stop sign
+Mensaje de alerta: ALERTA: stop sign
+-----------------------------
+Timestamp: 447947.5 ms
+Velocidad: 60 km/h
+Objeto detectado: stop sign
+Mensaje de alerta: ALERTA: stop sign
+-----------------------------
+Timestamp: 654820.8333333334 ms
+Velocidad: 60 km/h
+Objeto detectado: stop sign
+Mensaje de alerta: ALERTA: stop sign
+-----------------------------
+Timestamp: 756589.1666666666 ms
+Velocidad: 60 km/h
+Objeto detectado: stop sign
+Mensaje de alerta: ALERTA: stop sign
+-----------------------------
+Timestamp: 757423.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: stop sign
+Mensaje de alerta: ALERTA: stop sign
+-----------------------------
+Timestamp: 1732564.1666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: stop sign
+Mensaje de alerta: ALERTA: stop sign
+-----------------------------
+Timestamp: 1733398.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: stop sign
+Mensaje de alerta: ALERTA: stop sign
+-----------------------------
+Timestamp: 1734232.4999999998 ms
+Velocidad: 60 km/h
+Objeto detectado: stop sign
+Mensaje de alerta: ALERTA: stop sign
+-----------------------------
+Timestamp: 1751750.0 ms
+Velocidad: 60 km/h
+Objeto detectado: stop sign
+Mensaje de alerta: ALERTA: stop sign
+-----------------------------
+Timestamp: 1972804.1666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: stop sign
+Mensaje de alerta: ALERTA: stop sign
+-----------------------------
+Timestamp: 2013678.3333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: stop sign
+Mensaje de alerta: ALERTA: stop sign
+-----------------------------
+Timestamp: 2572569.9999999995 ms
+Velocidad: 60 km/h
+Objeto detectado: stop sign
+Mensaje de alerta: ALERTA: stop sign
+-----------------------------
+Timestamp: 2573404.1666666665 ms
+Velocidad: 60 km/h
+Objeto detectado: stop sign
+Mensaje de alerta: ALERTA: stop sign
+-----------------------------
+Timestamp: 2574238.333333333 ms
+Velocidad: 60 km/h
+Objeto detectado: stop sign
+Mensaje de alerta: ALERTA: stop sign
+-----------------------------
+Timestamp: 2575072.4999999995 ms
+Velocidad: 60 km/h
+Objeto detectado: stop sign
+Mensaje de alerta: ALERTA: stop sign
+-----------------------------

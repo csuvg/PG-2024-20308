@@ -1,0 +1,48 @@
+Alerta Log para ModelV1
+Fecha de creación: 2024-10-15 00:03:08
+
+Timestamp: 243576.66666666666 ms
+Velocidad: 57.86 km/h
+Objeto detectado: stop sign
+Mensaje de alerta: ALERTA: stop sign
+-----------------------------
+Timestamp: 654820.8333333334 ms
+Velocidad: 22.08 km/h
+Objeto detectado: stop sign
+Mensaje de alerta: ALERTA: stop sign
+-----------------------------
+Timestamp: 756589.1666666666 ms
+Velocidad: 5.56 km/h
+Objeto detectado: stop sign
+Mensaje de alerta: ALERTA: stop sign
+-----------------------------
+Timestamp: 757423.3333333333 ms
+Velocidad: 6.05 km/h
+Objeto detectado: stop sign
+Mensaje de alerta: ALERTA: stop sign
+-----------------------------
+Timestamp: 1972804.1666666665 ms
+Velocidad: 50.45 km/h
+Objeto detectado: stop sign
+Mensaje de alerta: ALERTA: stop sign
+-----------------------------
+Timestamp: 2572569.9999999995 ms
+Velocidad: 37.49 km/h
+Objeto detectado: stop sign
+Mensaje de alerta: ALERTA: stop sign
+-----------------------------
+Timestamp: 2573404.1666666665 ms
+Velocidad: 37.65 km/h
+Objeto detectado: stop sign
+Mensaje de alerta: ALERTA: stop sign
+-----------------------------
+Timestamp: 2574238.333333333 ms
+Velocidad: 37.69 km/h
+Objeto detectado: stop sign
+Mensaje de alerta: ALERTA: stop sign
+-----------------------------
+Timestamp: 2575072.4999999995 ms
+Velocidad: 37.94 km/h
+Objeto detectado: stop sign
+Mensaje de alerta: ALERTA: stop sign
+-----------------------------
